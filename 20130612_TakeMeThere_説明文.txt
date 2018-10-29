@@ -1,0 +1,15 @@
+﻿This application is a navigation application that uses GPS and compass information. 
+
+After you've pinned on the map in advance where you want to go, This app displays the direction and distance to the place from the current position.
+
+This app does not use the online service for navigation, it also works offline.
+If you are explore the great outdoor with no mobile phone signals, or you are using Windows Phone without data plan, this app will be a great help you get to your destination.
+
+
+
+このアプリケーションはコンパスとGPS情報を使うナビゲーションアプリケーションです。
+
+行きたい場所をあらかじめ地図上にピン止めしておけば、現在地からその場所への直線距離と方角を表示します。
+ナビゲーションにオンラインサービスを使用しないので、オフラインでも機能します。
+
+もしあなたが電波の無い大自然の中を探索したり、データプラン無しでWindows Phoneを使うのであれば、このアプリはあなたが目的地に辿り着く大きな助けとなるでしょう。
